@@ -86,3 +86,8 @@ a:hover {
         font-size: 25px;
     }
 }
+
+footer {
+    background-color: rgb(244, 79, 79);
+    text-align: center;
+}
